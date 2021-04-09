@@ -1,0 +1,24 @@
+{
+  "name": "doc-change-race",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ceramicnetwork/core": "^0.21.0",
+    "@ceramicnetwork/http-client": "^0.10.1",
+    "@ceramicstudio/idx-constants": "^1.0.0",
+    "@ceramicstudio/idx-tools": "^0.9.0",
+    "@stablelib/random": "^1.0.0",
+    "dag-jose": "^0.3.0",
+    "ipfs": "^0.54.2",
+    "key-did-provider-ed25519": "^1.0.1",
+    "multiformats": "~4.6.1",
+    "tmp-promise": "^3.0.2"
+  }
+}
